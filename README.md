@@ -1,9 +1,10 @@
-### Hi there 👋
+### Carlos Mauricio Leal Medina
+Estudiantes de Ingenieria de Sistemas
+📍Neiva - Huila👋
 
 mi nombre es carlos mauricio leal medina,tengo 19 años, soy de neiva-huila, naci el 16 de febrero de 2005,
-entre a estudair en la universidad corhuila la carrera de ingenieria de sistemas, estoy en el tercer semestre,
-mi familia esta conformada por mi papa, mi mama, mi hermano y dos perros, uno se llama perrys y tiene 15 años, el 
-otro se llama toby y tiene 2 años.
+entre a estudair en la universidad corhuila la carrera de ingenieria de sistemas, estoy cursando el quinto semestre,
+en la corporacion universitaria del huila corhuila (Corhuila).
 <!--
 **carlosleal16/carlosleal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
