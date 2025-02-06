@@ -1,6 +1,6 @@
 ### Carlos Mauricio Leal Medina
-Estudiantes de Ingenieria de Sistemas
-📍Neiva - Huila👋
+#### Estudiantes de Ingenieria de Sistemas
+#### 📍Neiva - Huila
 
 mi nombre es carlos mauricio leal medina,tengo 19 años, soy de neiva-huila, naci el 16 de febrero de 2005,
 entre a estudair en la universidad corhuila la carrera de ingenieria de sistemas, estoy cursando el quinto semestre,
