@@ -8,7 +8,10 @@ en la corporacion universitaria del huila corhuila (Corhuila).
 
 👨🏻‍🏫EDUCACION:
 
-**Ingenieria de Sistemas** - Corporacion Universitaria Corhuila (Cursando 5 Semestre).
+**Ingenieria de Sistemas** - *Corporacion Universitaria Corhuila* (Cursando 5 Semestre).
+
+Contacto:
+**✉️Correo** : cmleal-2023a@corhuila.edu.co
 <!--
 **carlosleal16/carlosleal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
