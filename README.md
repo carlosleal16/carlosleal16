@@ -6,11 +6,11 @@ mi nombre es carlos mauricio leal medina,tengo 19 años, soy de neiva-huila, nac
 entre a estudair en la universidad corhuila la carrera de ingenieria de sistemas, estoy cursando el quinto semestre,
 en la corporacion universitaria del huila corhuila (Corhuila).
 
-👨🏻‍🏫EDUCACION:
+#### EDUCACION
 
-**Ingenieria de Sistemas** - *Corporacion Universitaria Corhuila* (Cursando 5 Semestre).
+**Ingenieria de Sistemas** - *Corporacion Universitaria de Huila Corhuila* (Cursando 5 Semestre).
 
-#### Contacto:
+#### CONTACTO
 **✉️Correo** : cmleal-2023a@corhuila.edu.co
 <!--
 **carlosleal16/carlosleal16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
